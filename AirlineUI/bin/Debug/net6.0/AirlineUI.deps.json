@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AirlineUI/1.0.0": {
+        "dependencies": {
+          "AirlineClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "AirlineUI.dll": {}
+        }
+      },
+      "AirlineClassLibrary/1.0.0": {
+        "runtime": {
+          "AirlineClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AirlineUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AirlineClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

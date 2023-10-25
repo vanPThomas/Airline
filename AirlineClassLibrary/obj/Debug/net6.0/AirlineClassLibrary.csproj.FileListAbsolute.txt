@@ -1,0 +1,12 @@
+C:\additions\hogent\pg\Oefeningen\Airline\AirlineClassLibrary\bin\Debug\net6.0\AirlineClassLibrary.deps.json
+C:\additions\hogent\pg\Oefeningen\Airline\AirlineClassLibrary\bin\Debug\net6.0\AirlineClassLibrary.dll
+C:\additions\hogent\pg\Oefeningen\Airline\AirlineClassLibrary\bin\Debug\net6.0\AirlineClassLibrary.pdb
+C:\additions\hogent\pg\Oefeningen\Airline\AirlineClassLibrary\obj\Debug\net6.0\AirlineClassLibrary.csproj.AssemblyReference.cache
+C:\additions\hogent\pg\Oefeningen\Airline\AirlineClassLibrary\obj\Debug\net6.0\AirlineClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\additions\hogent\pg\Oefeningen\Airline\AirlineClassLibrary\obj\Debug\net6.0\AirlineClassLibrary.AssemblyInfoInputs.cache
+C:\additions\hogent\pg\Oefeningen\Airline\AirlineClassLibrary\obj\Debug\net6.0\AirlineClassLibrary.AssemblyInfo.cs
+C:\additions\hogent\pg\Oefeningen\Airline\AirlineClassLibrary\obj\Debug\net6.0\AirlineClassLibrary.csproj.CoreCompileInputs.cache
+C:\additions\hogent\pg\Oefeningen\Airline\AirlineClassLibrary\obj\Debug\net6.0\AirlineClassLibrary.dll
+C:\additions\hogent\pg\Oefeningen\Airline\AirlineClassLibrary\obj\Debug\net6.0\refint\AirlineClassLibrary.dll
+C:\additions\hogent\pg\Oefeningen\Airline\AirlineClassLibrary\obj\Debug\net6.0\AirlineClassLibrary.pdb
+C:\additions\hogent\pg\Oefeningen\Airline\AirlineClassLibrary\obj\Debug\net6.0\ref\AirlineClassLibrary.dll
